@@ -18,18 +18,18 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+https://drive.google.com/file/d/1hLEGe4Rnevkl4U8-d7_tnV158vxwpol8/view?usp=sharing
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project shows an asphalt drawing of a star. First, the painter paints the background white and then paints a black outline of a star.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - Two things I am proud of about my project are the way the star looks visually. I was afraid it would not look like a star. The second thing I am proud of is my code. 
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - To improve my project, I could have added color to the inside of the star so it would look better aesthetically.
